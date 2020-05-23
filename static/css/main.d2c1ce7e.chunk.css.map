@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,QACE,uBACF,CAEA,EACE,UACF","file":"main.d2c1ce7e.chunk.css","sourcesContent":[".active {\n  background-color: bisque;\n}\n\na {\n  margin: 5px;\n}\n"]}
